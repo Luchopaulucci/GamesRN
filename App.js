@@ -20,5 +20,6 @@ const styles = StyleSheet.create({
     backgroundColor: "#000",
     alignItems: "center",
     justifyContent: "center",
+    width: '100%',
   },
 });
